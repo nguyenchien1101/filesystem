@@ -112,17 +112,4 @@ MyFS đáp ứng tốt yêu cầu của bài toán **Data Integrity & Disaster R
 - Versioning file
 - Tách quyền người dùng
 
----
 
-## 👨‍🎓 Thông tin nhóm
-- **Lê Quốc Anh** – 22520049  
-- **Võ Nguyễn Chiến** – 22520157  
-
-Lớp: **NT212.Q11.ANTT**  
-GVHD: **ThS. Thái Hùng Văn**
-
----
-
-## 🔗 Liên kết
-- GitHub repository:  
-  https://github.com/nguyenchien1101/filesystem
