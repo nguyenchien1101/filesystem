@@ -1,0 +1,6 @@
+*.txt
+*.DRI
+*.key
+./build/
+./dist/
+**/secret
